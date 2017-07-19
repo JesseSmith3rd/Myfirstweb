@@ -1,0 +1,28 @@
+h1{
+  color: white;
+}
+body{
+  width: 60%;
+  margin: 0 auto;
+  }
+main{
+  width:0 auto;
+  margin: auto;
+
+}
+.news-item{
+  width: 80%;
+}
+p{
+  color: white;
+}
+ul{
+  color: white;
+}
+h3{
+  color: white;
+}
+
+/*#MainCar {
+  content: url('GTO3.jpg')
+}
